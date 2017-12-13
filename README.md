@@ -1,2 +1,5 @@
 # cuda_tracking
-Kanade-Lucas-Tomasi tracking 
+
+**tracker type: KCF,TLD,MEDIANFLOW
+
+
